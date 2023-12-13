@@ -49,9 +49,7 @@ animation: gradient 15s ease infinite;
     background-position: 0% 50%;
   }
 }
-/* styles.css */
 
-/* General styles */
 
 h1, h2, h3 {
   color: #333;
@@ -61,7 +59,6 @@ a {
   text-decoration: none;
 }
 
-/* Header styles */
 
 
 
@@ -90,7 +87,6 @@ header div a:hover {
   color: red;
   transition: 1s all ease-in;
 }
-/* Main content styles */
 
 .hero-section {
   display:flex;
@@ -107,7 +103,7 @@ header div a:hover {
   margin-bottom: 20px;
 }
 
-/*skills section*/
+
 
 .skills-section {
   display: grid;
@@ -222,7 +218,6 @@ header div a:hover {
   font-weight: bold;
 }
 
-/*About me section*/
 
 .about-me-section {
   display: flex;
@@ -265,7 +260,7 @@ header div a:hover {
   transition: 1s all ease-in;
 }
 
-/*My work section*/
+
 
 .my-work-section{
   display: grid;
@@ -380,9 +375,6 @@ footer p {
   transition: 1s all ease-in;
 }
 
-/*
- * SR-ONLY
- */
 .sr-only {
   position: absolute;
   width: 1px;
@@ -396,9 +388,7 @@ footer p {
  }
 
 
-/*
- * SHARED STYLES
- */
+
 
 .container {
   max-width: 1000px;
@@ -406,7 +396,5 @@ footer p {
   padding: 0 1.0rem;
 }
 
-/*
- * ADD YOUR STYLES HERE
- */
+
 
